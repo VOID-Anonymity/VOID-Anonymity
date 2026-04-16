@@ -2,7 +2,7 @@
 
 > "The void is not empty, it's just clean."
 <p align="center">
-  <img src="https://i.pinimg.com/736x/5c/df/29/5cdf291c9b71e3b5a8dfbe40475bac30.jpg" width="800" alt="V.O.I.D Project">
+  <img src="https://i.pinimg.com/736x/5c/df/29/5cdf291c9b71e3b5a8dfbe40475bac30.jpg" width="700" alt="V.O.I.D Project">
 </p>
 
 ### 🛡️ Projects
