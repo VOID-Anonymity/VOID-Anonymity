@@ -16,7 +16,9 @@
 
 [DNS-Changer-Linux](https://github.com/VOID-Anonymity/V.O.I.D-DNS_Changer-Linux) - DNS Changer and pinger for Russian for bypass blocking by V.O.I.D™ (Linux)
 
-[DNS-Changer-Windows](https://github.com/VOID-Anonymity/V.O.I.D-DNS_Changer-Windows) DNS Changer and pinger for Russian for bypass blocking by V.O.I.D™ (Windows)
+[DNS-Changer-Windows](https://github.com/VOID-Anonymity/V.O.I.D-DNS_Changer-Windows) - DNS Changer and pinger for Russian for bypass blocking by V.O.I.D™ (Windows)
+
+[Starter-Paack](https://github.com/VOID-Anonymity/V.O.I.D-Starter_Pack) - Starter Pack dor Linux Users by V.O.I.D™
 
 ### 🛠 Tech Stack
 * **OS:** Linux (Mint / Debian)
