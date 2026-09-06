@@ -22,7 +22,7 @@
 
 [Probe-Analyzer](https://github.com/VOID-Anonymity/V.O.I.D-Analyzer-Probe) - Probe Analyzer for Russian Residents by V.O.I.D™
 
-[Digma-CITI-609](https://github.com/VOID-Anonymity/DIGMA_CITI_609) - Digma Citi 609 Repo
+[Digma-CITI-609](https://github.com/VOID-Anonymity/DIGMA_CITI_609) - Digma Citi 609 Repo by V.O.I.D™
 
 ### 🛠 Tech Stack
 * **OS:** Linux (Mint / Debian)
